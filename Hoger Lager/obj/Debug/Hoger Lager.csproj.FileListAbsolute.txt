@@ -1,0 +1,7 @@
+C:\Users\Allan\Desktop\Hoger-lager-game\Hoger Lager\bin\Debug\Hoger Lager.exe.config
+C:\Users\Allan\Desktop\Hoger-lager-game\Hoger Lager\bin\Debug\Hoger Lager.exe
+C:\Users\Allan\Desktop\Hoger-lager-game\Hoger Lager\bin\Debug\Hoger Lager.pdb
+C:\Users\Allan\Desktop\Hoger-lager-game\Hoger Lager\obj\Debug\Hoger Lager.csprojAssemblyReference.cache
+C:\Users\Allan\Desktop\Hoger-lager-game\Hoger Lager\obj\Debug\Hoger Lager.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Desktop\Hoger-lager-game\Hoger Lager\obj\Debug\Hoger Lager.exe
+C:\Users\Allan\Desktop\Hoger-lager-game\Hoger Lager\obj\Debug\Hoger Lager.pdb

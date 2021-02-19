@@ -13,8 +13,6 @@ namespace Hoger_Lager
             this.suit = suit;
             this.points = points;
         }
-
-
         public string Face
         {
             get { return face; }
@@ -52,55 +50,55 @@ namespace Hoger_Lager
             {
                 if (Face == "2")
                 {
-                    points = 2;
+                    points = 0;
                 }
                 else if (Face == "3")
                 {
-                    points = 3;
+                    points = 1;
                 }
                 else if (Face == "4")
                 {
-                    points = 4;
+                    points = 2;
                 }
                 else if (Face == "5")
                 {
-                    points = 5;
+                    points = 3;
                 }
                 else if (Face == "6")
                 {
-                    points = 6;
+                    points = 4;
                 }
                 else if (Face == "7")
                 {
-                    points = 7;
+                    points = 5;
                 }
                 else if (Face == "8")
                 {
-                    points = 8;
+                    points = 6;
                 }
                 else if (Face == "9")
                 {
-                    points = 9;
+                    points = 7;
                 }
                 else if (Face == "10")
                 {
-                    points = 10;
+                    points = 8;
                 }
                 else if (Face == "J")
                 {
-                    points = 11;
+                    points = 9;
                 }
                 else if (Face == "Q")
                 {
-                    points = 12;
+                    points = 10;
                 }
                 else if (Face == "K")
                 {
-                    points = 13;
+                    points = 11;
                 }
                 else if (Face == "A")
                 {
-                    points = 14;
+                    points = 12;
                 }
                 else
                 {

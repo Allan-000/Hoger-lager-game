@@ -20,14 +20,10 @@ namespace Hoger_Lager
 
             for (int i = 0; i < faces.Length; i++)
             {
-                for (int y = 0; y < points.Length; y++)
-                {
-                    for (int j = 0; j < suits.Length; j++)
-                    {
-                        deck.Add(new Card(faces[i], suits[j], points[y]));
-                    }
-                }
-
+                  for (int j = 0; j < suits.Length; j++)
+                  {
+                      deck.Add(new Card(faces[i], suits[j],points[i]));
+                  }
             }
         }
         public Card getRandomCard()
